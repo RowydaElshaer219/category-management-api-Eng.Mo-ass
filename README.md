@@ -130,8 +130,3 @@ The API returns appropriate status codes for different scenarios:
 - Implement authentication and authorization
 - Add pagination for retrieving categories
 - Integrate caching for performance optimization
-- Deploy to a cloud-based server
-
-## License
-This project is open-source and available under the MIT License.
-
