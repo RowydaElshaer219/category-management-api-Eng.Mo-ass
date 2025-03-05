@@ -67,7 +67,7 @@ http://localhost:5000/api/categories
 ### Create Category
 
 **Request:**
-``json
+```json
 POST /api/categories
 Content-Type: application/json
 
@@ -78,7 +78,7 @@ Content-Type: application/json
 ```
 
 **Response:**
-``json
+```json
 Status: 201 Created
 {
   "_id": "60d21b4667d0d8992e610c85",
@@ -131,4 +131,7 @@ The API returns appropriate status codes for different scenarios:
 - Add pagination for retrieving categories
 - Integrate caching for performance optimization
 - Deploy to a cloud-based server
+
+## License
+This project is open-source and available under the MIT License.
 
