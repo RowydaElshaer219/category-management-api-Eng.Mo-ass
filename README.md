@@ -126,7 +126,3 @@ The API returns appropriate status codes for different scenarios:
 4. Test each endpoint with different request bodies.
 5. Verify that responses match expected formats.
 
-## Future Enhancements
-- Implement authentication and authorization
-- Add pagination for retrieving categories
-- Integrate caching for performance optimization
